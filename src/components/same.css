@@ -1,0 +1,90 @@
+.darkTheme {
+    background-color: #222;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  
+  .darkTheme h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .darkTheme button {
+    background-color: #e3b6b3;
+    color: #222;
+    padding: 14px 40px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 5px;
+    border-radius: 8px;
+  }
+  
+  .darkTheme button:hover {
+    background-color: #ffb6b3;
+  }
+
+  .darkTheme button.taskButton {
+    background-color: #90df9c;
+    color: #222;
+    padding: 14px 40px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 5px;
+    border-radius: 8px;
+  }
+
+  .darkTheme button.taskButton:hover {
+    background-color: #286431;
+    color: white;
+  }
+
+  .darkTheme button.countButton{
+    background-color: #90a7df;
+    color: #222;
+    padding: 14px 40px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 5px;
+    border-radius: 8px;
+  }
+
+  .darkTheme button.countButton:hover {
+    background-color: #abc0f6;
+    
+  }
+  
+  .darkTheme table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .darkTheme table th,
+  .darkTheme table td {
+    padding: 5px;
+    border: 1px solid #fff;
+  }
+  
+  .darkTheme table th {
+    background-color: #ffb6b3;
+    color: #fff;
+  }
+
+  .darkTheme table th.count {
+    background-color: #90a7df;
+    color: #fff;
+  }
+  
+  .darkTheme table td {
+    background-color: #fff;
+    color: #222;
+  }
+  
+  .justified {
+    text-align: justify;
+    max-width: 30ch;
+    overflow-wrap: break-word;
+  }

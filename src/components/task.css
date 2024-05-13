@@ -1,0 +1,109 @@
+.darkTheme {
+    background-color: #222;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+  }
+  
+  .darkTheme h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-size: 40px;
+  }
+  
+  .darkTheme button {
+    background-color: #fff;
+    color: #222;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 5px;
+    border-radius: 8px;
+  }
+  
+  .darkTheme button:hover {
+    background-color: #72bbdd;
+  }
+  
+  .darkTheme form {
+    margin-top: 20px;
+  }
+  
+  .darkTheme h3 {
+    margin-top: 10px;
+  }
+  
+  .darkTheme input[type="text"] {
+    width: 200px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    padding: 10px 40px;
+    font-size: 20px;
+  }
+  
+  .darkTheme button.update {
+    background-color: #72bbdd;
+    color: #fff;
+  }
+  .darkTheme button.update:hover {
+    background-color: #1b4557;
+    
+  }
+  
+  .darkTheme button.delete {
+    background-color: #ff5050;
+    color: #fff;
+  }
+
+  .darkTheme button.delete:hover {
+    background-color: #881b1b;
+    
+  }
+
+  .darkTheme button.canceledit {
+    background-color: #446a7a;
+    color: #fff;
+  }
+  .darkTheme button.canceledit:hover {
+    background-color: #7296dd;
+    
+  }
+  
+  .darkTheme table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .darkTheme table th,
+  .darkTheme table td {
+    padding: 5px;
+    border: 1px solid #fff;
+  }
+  
+  .darkTheme table th {
+    background-color: #1f323a;
+    color: #fff;
+  }
+  
+  .darkTheme table td {
+    background-color: #fff;
+    color: #222;
+  }
+  
+  .justified {
+    text-align: justify;
+    max-width: 30ch;
+    overflow-wrap: break-word;
+  }
+
+  .table-container {
+    padding-bottom:  50px;
+  }
+  
