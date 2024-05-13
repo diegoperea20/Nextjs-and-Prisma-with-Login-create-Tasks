@@ -5,7 +5,7 @@
 #### [Same Project with Nextjs and Flask ](https://github.com/diegoperea20/Nextjs-and-Flask-with-Login-create-Tasks)
 
 <p align="justify">
-Nextjs fronted with Flask REST API with sqlite where there is a login and register (you can change password and email, delete account) where each user can create titles and descriptions (you can edit and delete them) and in 'same' section the user can select the count of how many people have the same title he has created and see the emails of those people who have the same title.
+Nextjs with Prisma ORM REST API with sqlite where there is a login and register (you can change password and email, delete account) where each user can create titles and descriptions (you can edit and delete them) and in 'same' section the user can select the count of how many people have the same title he has created and see the emails of those people who have the same title.
 </p>
 
 <p align="center">
